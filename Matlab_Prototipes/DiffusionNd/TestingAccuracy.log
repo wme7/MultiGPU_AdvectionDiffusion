@@ -1,0 +1,72 @@
+L_1 norm: 1.81e-01 
+L_2 norm: 7.90e-02 
+L_inf norm: 4.97e-02 
+Elapsed time is 0.007597 seconds.
+L_1 norm: 2.97e-01 
+L_2 norm: 6.79e-02 
+L_inf norm: 2.65e-02 
+Elapsed time is 0.008758 seconds.
+L_1 norm: 3.99e-01 
+L_2 norm: 3.45e-02 
+L_inf norm: 7.31e-03 
+Elapsed time is 0.011706 seconds.
+L_1 norm: 4.87e-02 
+L_2 norm: 1.96e-02 
+L_inf norm: 1.34e-02 
+Elapsed time is 0.000353 seconds.
+L_1 norm: 3.42e-02 
+L_2 norm: 5.97e-03 
+L_inf norm: 2.96e-03 
+Elapsed time is 0.001496 seconds.
+L_1 norm: 2.75e-02 
+L_2 norm: 1.84e-03 
+L_inf norm: 5.04e-04 
+Elapsed time is 0.076203 seconds.
+L_1 norm: 9.89e-03 
+L_2 norm: 3.77e-03 
+L_inf norm: 2.62e-03 
+Elapsed time is 0.000496 seconds.
+L_1 norm: 5.14e-03 
+L_2 norm: 8.55e-04 
+L_inf norm: 3.59e-04 
+Elapsed time is 0.018955 seconds.
+L_1 norm: 1.35e-02 
+L_2 norm: 9.80e-04 
+L_inf norm: 3.29e-04 
+Elapsed time is 3.244610 seconds.
+L_1 norm: 1.50e-03 
+L_2 norm: 7.43e-04 
+L_inf norm: 8.34e-04 
+Elapsed time is 0.003006 seconds.
+L_1 norm: 2.99e-03 
+L_2 norm: 5.39e-04 
+L_inf norm: 2.64e-04 
+Elapsed time is 0.318253 seconds.
+L_1 norm: 4.70e-03 
+L_2 norm: 3.38e-04 
+L_inf norm: 8.33e-05 
+Elapsed time is 121.440195 seconds.
+***************************************************************
+ Heat solver 1 D
+***************************************************************
+ nE 	 L1-Norm 	 Degree 	 Linf-Norm 	 Degree
+ 10 	 1.81e-01 	 0.00 		 4.97e-02 	 0.00 
+ 20 	 4.87e-02 	 1.89 		 1.34e-02 	 1.90 
+ 40 	 9.89e-03 	 2.30 		 2.62e-03 	 2.35 
+ 80 	 1.50e-03 	 2.72 		 8.34e-04 	 1.65 
+***************************************************************
+ Heat solver 2 D
+***************************************************************
+ nE 	 L1-Norm 	 Degree 	 Linf-Norm 	 Degree
+ 10 	 2.97e-01 	 0.00 		 2.65e-02 	 0.00 
+ 20 	 3.42e-02 	 3.12 		 2.96e-03 	 3.17 
+ 40 	 5.14e-03 	 2.73 		 3.59e-04 	 3.04 
+ 80 	 2.99e-03 	 0.78 		 2.64e-04 	 0.45 
+***************************************************************
+ Heat solver 3 D
+***************************************************************
+ nE 	 L1-Norm 	 Degree 	 Linf-Norm 	 Degree
+ 10 	 3.99e-01 	 0.00 		 7.31e-03 	 0.00 
+ 20 	 2.75e-02 	 3.86 		 5.04e-04 	 3.86 
+ 40 	 1.35e-02 	 1.02 		 3.29e-04 	 0.61 
+ 80 	 4.70e-03 	 1.52 		 8.33e-05 	 1.98 
